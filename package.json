@@ -24,7 +24,7 @@
     "react-cool-inview": "^2.0.8",
     "react-dom": "^18.0.0-rc.0",
     "react-lazyload": "^3.2.0",
-    "sass": "^1.49.0"
+    "sass": "^1.49.4"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.2",
