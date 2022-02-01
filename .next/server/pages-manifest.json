@@ -1,7 +1,12 @@
 {
   "/_app": "pages/_app.js",
   "/_document": "pages/_document.js",
+  "/api/hello": "pages/api/hello.js",
+  "/historique": "pages/historique.html",
+  "/": "pages/index.html",
+  "/metiers": "pages/metiers.html",
+  "/missions": "pages/missions.html",
+  "/services": "pages/services.html",
   "/_error": "pages/_error.js",
-  "/missions": "pages/missions.js",
-  "/": "pages/index.js"
+  "/404": "pages/404.html"
 }
