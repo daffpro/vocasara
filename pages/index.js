@@ -22,6 +22,7 @@ export default function Home() {
     <Layout >
         <DynamicComponent />
         <Section2 />
+        <Section7 />
         <Suspense fallback={<div>Loading...</div>} await>
            
             <div ref={observe} className='2'>
@@ -29,6 +30,9 @@ export default function Home() {
                 
             </div>
          </Suspense>
+         <Section4 />
+         <Section5 />
+         <Section6 />
         {/* <Suspense fallback={<div>Loading...</div>}>
            
             <div ref={observe}>

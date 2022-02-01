@@ -40,5 +40,11 @@
     "files": [
       "static/chunks/components_Section7_js.js"
     ]
+  },
+  "missions.js -> ../components/missions": {
+    "id": "missions.js -> ../components/missions",
+    "files": [
+      "static/chunks/components_missions_js.js"
+    ]
   }
 }

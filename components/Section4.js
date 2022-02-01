@@ -8,9 +8,9 @@ const Section4 =() =>{
                     <div class="title-section animated fadeInUp">
                         <div class="row justify-content-center">
                         <div class="col-sm-8 col-sm-offset-2">
-                            <h2>Our awesome team</h2>
+                            <h2 className='equipe-h2'>Notre équipe</h2>
                             <hr/>
-                            <p>Seamlessly restore client-focused potentialities rather than functional strategic theme areas. Credibly e-enable value-added portals with clicks-and-mortar initiatives.</p>
+                            <p className='equipe-p'>Le Savoir-faire, la Qualité, l’acharnement(“Diayanté Ba Naw“), la Disponibilité, la Responsabilité, la  Confiance, et la Proximité .</p>
                         </div>
                         </div> 
                     </div> 
@@ -24,9 +24,9 @@ const Section4 =() =>{
                             <img src="/img/gianni2.jpeg" alt=""/>
                             <div class="magnifier">
                                 <div class="magnifier-inner">
-                                <h3>MICHAEL ROOF</h3>
-                                <p>Co_founder &amp; Designer</p>
-                                <p>We’ll etch your brand onto tangible objects: business cards, ads, stickers, brochures, you name it. You won’t see business cards, ads, stickers, brochures anything until we’re done drooling at the result.</p>
+                                <h3>Gianni ANDJEMBE Wilkes</h3>
+                                <p>Responsable CTAD</p>
+                                <p>Chargé du traitements des données de travaux sur les inspections</p>
                                 <ul class="social-icons">
 
                                     <li><a data-rel="tooltip" data-toggle="tooltip" data-trigger="hover" data-placement="bottom" data-title="Facebook" href="#" data-original-title="" title=""><i class="fa fa-facebook"></i></a></li>
@@ -49,9 +49,9 @@ const Section4 =() =>{
                             <img src="/img/raphael.jpeg" alt=""/>
                             <div class="magnifier">
                                 <div class="magnifier-inner">
-                                <h3>CHARLES WHITE</h3>
-                                <p>Co_founder &amp; Designer</p>
-                                <p>We’ll etch your brand onto tangible objects: business cards, ads, stickers, brochures, you name it. You won’t see business cards, ads, stickers, brochures anything until we’re done drooling at the result.</p>
+                                <h3>Raphael yikipedoin SARA</h3>
+                                <p>CEO &amp; FOUNDER</p>
+                                <p>Chargé de l'orientation et de la mise en production</p>
                                 <ul class="social-icons">
 
                                     <li><a data-rel="tooltip" data-toggle="tooltip" data-trigger="hover" data-placement="bottom" data-title="Facebook" href="#" data-original-title="" title=""><i class="fa fa-facebook"></i></a></li>
@@ -71,12 +71,12 @@ const Section4 =() =>{
                        
                         <div class="col-sm-4">
                             <div class="member-team animated fadeInRight" >
-                            <img src="/img/gianni.jpeg" alt=""/>
+                            <img src="/img/thier.jpeg" alt=""/>
                             <div class="magnifier">
                                 <div class="magnifier-inner">
-                                <h3>MARTIN CAMBRIGE</h3>
-                                <p>Head Support</p>
-                                <p>We’ll etch your brand onto tangible objects: business cards, ads, stickers, brochures, you name it. You won’t see business cards, ads, stickers, brochures anything until we’re done drooling at the result.</p>
+                                <h3>Thierno Barry</h3>
+                                <p>Responsable production media</p>
+                                <p>Chargé de la couverture media</p>
                                 <ul class="social-icons">
 
                                     <li><a data-rel="tooltip" data-toggle="tooltip" data-trigger="hover" data-placement="bottom" data-title="Facebook" href="#" data-original-title="" title=""><i class="fa fa-facebook"></i></a></li>

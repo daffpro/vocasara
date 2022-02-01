@@ -24,7 +24,7 @@ const Homepage =() =>{
                                         <div className="cafe-inner">Vocasara,</div>
                                     </div>
                                     <div className="mozart">
-                                        <h1 className="mozart-inner">Un envol vers l'avenir </h1>
+                                        <div className="mozart-inner">Un envol vers l'avenir </div>
                                     </div>
                                     <div className="product_buttons">
                                         <button className="btn wishlist">Découvrir !</button>
