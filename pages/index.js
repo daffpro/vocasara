@@ -1,7 +1,7 @@
 import Layout from '../components/layout/Layout'
 import useInView from "react-cool-inview";
 import dynamic from 'next/dynamic';
-import { lazy, Suspense } from 'react';
+
 
 const DynamicComponent = dynamic(() => import('../components/Homepage'))
 const Section2 = dynamic(() => import('../components/Section2'))
@@ -23,13 +23,13 @@ export default function Home() {
         <DynamicComponent />
         <Section2 />
         <Section7 />
-        <Suspense fallback={<div>Loading...</div>} await>
+       
            
             <div ref={observe} className='2'>
                 {inView && <Section3 />}
                 
             </div>
-         </Suspense>
+      
          <Section4 />
          <Section5 />
          <Section6 />

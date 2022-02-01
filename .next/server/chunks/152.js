@@ -74,7 +74,10 @@ function dynamic(dynamicOptions, options) {
     const suspenseOptions = loadableOptions;
     if (true) {
         // Error if react root is not enabled and `suspense` option is set to true
-        if (false) {}
+        if ( true && suspenseOptions.suspense) {
+            // TODO: add error doc when this feature is stable
+            throw new Error(`Invalid suspense option usage in next/dynamic. Read more: https://nextjs.org/docs/messages/invalid-dynamic-suspense`);
+        }
     }
     if (suspenseOptions.suspense) {
         return loadableFn(suspenseOptions);
