@@ -74,11 +74,11 @@ const Footer =() =>{
                             <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15434.28014045236!2d-17.425203!3d14.7368843!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x494168c5dd93026e!2sVOCASARA!5e0!3m2!1sfr!2ssn!4v1642714901261!5m2!1sfr!2ssn"  allowFullScreen loading="lazy"></iframe>
                         </div>
                     </div>
-                    <div id="footer-section" class="text-center">
-                        <div class="container">
-                        <div class="row justify-content-center">
-                            <div class="col-sm-8 col-sm-offset-2">
-                                <p class="copyright">
+                    <div id="footer-section" className="text-center">
+                        <div className="container">
+                        <div className="row justify-content-center">
+                            <div className="col-sm-8 col-sm-offset-2">
+                                <p className="copyright">
                                     &copy; 2022 VOCASARA - Created By <a href="">Dahibou KA</a>
                                 </p>
                             </div> 

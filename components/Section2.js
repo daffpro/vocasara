@@ -2,16 +2,16 @@ import React from 'react'
 const Section2 =() =>{
     return(
         <div>
-            <div id="landing-offer" class="pad-sec ">
-                <div class="container">
+            <div id="landing-offer" className="pad-sec ">
+                <div className="container">
 
-                <div class="title-section big-title-sec animated fadeInUp" >
-                    <div class="row justify-content-center">
-                    <div class="col-sm-8 col-sm-offset-2">
-                        <h2 class="big-title">Quelques informations à propos de nous</h2>
-                        <h1 class="big-subtitle">Nous œuvrons dans le secteur énergetique &amp; digital </h1>
+                <div className="title-section big-title-sec animated fadeInUp" >
+                    <div className="row justify-content-center">
+                    <div className="col-sm-8 col-sm-offset-2">
+                        <h2 className="big-title">Quelques informations à propos de nous</h2>
+                        <h1 className="big-subtitle">Nous œuvrons dans le secteur énergetique &amp; digital </h1>
                         <hr/>
-                        <p class="about-text">
+                        <p className="about-text">
                             {/* Nous sommes compétences reposent sur l’ingénieurie notament par nos inspections 
                             par drones via notre Centre de Traitement et d’Analyse de Données (CTAD). */}
                             La société vocasara est un acteur montant dans le secteur de l'énergie et du digital. Grace
@@ -21,12 +21,12 @@ const Section2 =() =>{
                     </div>
                 </div>
 
-                <div class="offer-boxes">
+                <div className="offer-boxes">
 
-                    <div class="row">
-                    <div class="col-sm-4">
-                    <div class="offer-post text-center animated fadeInLeft" >
-                        <div class="offer-icon">
+                    <div className="row">
+                    <div className="col-sm-4">
+                    <div className="offer-post text-center animated fadeInLeft" >
+                        <div className="offer-icon">
                             <img src='/img/electric-tower (1).png' className='img-fluid'/>
                         </div>
                         <h4>Inspections &amp; Préventions </h4>
@@ -34,9 +34,9 @@ const Section2 =() =>{
                     </div> 
                     </div> 
 
-                    <div class="col-sm-4">
-                    <div class="offer-post text-center animated fadeInUp" >
-                        <div class="offer-icon">
+                    <div className="col-sm-4">
+                    <div className="offer-post text-center animated fadeInUp" >
+                        <div className="offer-icon">
                             <img src='/img/camera-de-videosurveillance.png' className='img-fluid'/>
                         </div>
                         <h4>Sécurité</h4>
@@ -44,9 +44,9 @@ const Section2 =() =>{
                     </div> 
                     </div>
 
-                    <div class="col-sm-4">
-                    <div class="offer-post text-center animated fadeInRight" >
-                        <div class="offer-icon">
+                    <div className="col-sm-4">
+                    <div className="offer-post text-center animated fadeInRight" >
+                        <div className="offer-icon">
                             <img src='/img/videography.png' className='img-fluid'/>
                         </div>
                         <h4>Media</h4>
@@ -60,7 +60,7 @@ const Section2 =() =>{
                 </div> 
             </div>
             <section>
-                <div class="sep-section"></div>
+                <div className="sep-section"></div>
             </section>
         </div>
         
