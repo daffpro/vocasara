@@ -14,9 +14,9 @@ const missions =() =>{
                 </div>
                 
             </div>
-            <div className='row justify-content-center'>
-                <div className='col-md-8 col-sm-12'>
-                 La mission de notre entreprise consiste à :
+            <div className='row justify-content-center mt-5'>
+                <div className='col-md-10 col-sm-12'>
+                 La mission de notre entreprise consiste à : <br/>
 
                     -Fournir une planification rapide de la maintenance pour les entreprise du secteur énergétique, industriel, etc… ;
                     -Réaliser des prestations de qualités dans le secteur énergétique, industrie, télécommunication en matière d’inspections drone, et d’électricité dans une recherche constante de la satisfaction du client ;
