@@ -17,11 +17,12 @@ const missions =() =>{
             <div className='row justify-content-center mission-body'>
                 <div className='col-lg-10 col-sm-12 p-5'>
                  La mission de notre entreprise consiste à : <br/>
+                <br/>
 
-                    -Fournir une planification rapide de la maintenance pour les entreprise du secteur énergétique, industriel, etc… ;<br/>
-                    -Réaliser des prestations de qualités dans le secteur énergétique, industrie, télécommunication en matière d’inspections drone, et d’électricité dans une recherche constante de la satisfaction du client ;<br/>
-                    -Identifier, étudier, et résoudre les dysfonctionnements techniques existants dans le secteur de l’énergie, télécommunications.<br/>
-                    <br/><br/><br/>
+                &nsbp;-&gt; Fournir une planification rapide de la maintenance pour les entreprise du secteur énergétique, industriel, etc… ;<br/>
+                &nsbp;-&gt; Réaliser des prestations de qualités dans le secteur énergétique, industrie, télécommunication en matière d’inspections drone, et d’électricité dans une recherche constante de la satisfaction du client ;<br/>
+                &nsbp;-&gt; Identifier, étudier, et résoudre les dysfonctionnements techniques existants dans le secteur de l’énergie, télécommunications.<br/>
+                    <br/><br/>
                     En outre ces missions sont effectuées par une organisation, une structuration et collaboration des différents services que regorgent notre VOCA SARA à savoir : 
                 </div>
             </div>
