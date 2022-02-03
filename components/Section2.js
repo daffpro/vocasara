@@ -15,7 +15,7 @@ const Section2 =() =>{
                             {/* Nous sommes compétences reposent sur l’ingénieurie notament par nos inspections 
                             par drones via notre Centre de Traitement et d’Analyse de Données (CTAD). */}
                             La société vocasara est un acteur montant dans le secteur de l'énergie et du digital. Grace
-                            son orientation futiriste elle offre de nouvelles perspectives dans ces dit secteurs.
+                            son orientation futiriste elle offre de nouvelles perspectives dans ces dits secteurs.
                        </p>
                     </div>
                     </div>

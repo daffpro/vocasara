@@ -24,7 +24,7 @@ const Section4 =() =>{
                             <img src="/img/gianni2.jpeg" alt=""/>
                             <div className="magnifier">
                                 <div className="magnifier-inner">
-                                <h3>Gianni ANDJEMBE Wilkes</h3>
+                                <h3>Gianni Wilkes ANDJEMBE</h3>
                                 <p>Responsable CTAD</p>
                                 <p>Chargé du traitements des données de travaux sur les inspections</p>
                                 <ul className="social-icons">

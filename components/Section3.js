@@ -8,7 +8,7 @@ const Section3 =() =>{
                         <div className="title-section text-center animated fadeInDownBig" >
                             <div className="row justify-content-center">
                             <div className="col-sm-8 col-sm-offset-2">
-                                <h2 className='title-section-h2'>Nos domaines d'actiités</h2>
+                                <h2 className='title-section-h2'>Nos domaines d'activités</h2>
                                 <hr/>
                                 <p className='title-section-p'>Specialisé dans l'énergie et l'iot.</p>
                             </div>

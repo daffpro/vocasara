@@ -15,7 +15,16 @@ const metiers =() =>{
                 
             </div>
             <div className='row justify-content-center metier-body'>
-                
+                  <h4 className='text-center'>Chez vocasara, nous mettons tous les metiers au service du digital</h4>
+            </div>
+            <div className='row justify-content-center metier-body'>
+                <div className='col-md-6 col-sm-12'>
+                    <h4></h4>
+                    <p></p>    
+                </div> 
+                <div className='col-md-6 col-sm-12'>
+
+                </div>
             </div>
         </div>
         )

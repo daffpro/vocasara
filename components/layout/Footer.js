@@ -103,7 +103,7 @@ const Footer =() =>{
             </footer>
             
             {showButton && (
-                <div onClick={scrollToTop} className="back-to-top">
+                <div onClick={scrollToTop} className="animate-bounce back-to-top">
                        <FontAwesomeIcon icon='chevron-up'/>
                 </div>
             )}
