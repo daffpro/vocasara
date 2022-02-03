@@ -14,8 +14,8 @@ const missions =() =>{
                 </div>
                 
             </div>
-            <div className='row justify-content-center mt-5'>
-                <div className='col-md-10 col-sm-12'>
+            <div className='row justify-content-center mission-body'>
+                <div className='col-md-10 col-sm-12 p-5'>
                  La mission de notre entreprise consiste à : <br/>
 
                     -Fournir une planification rapide de la maintenance pour les entreprise du secteur énergétique, industriel, etc… ;
