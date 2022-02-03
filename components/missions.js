@@ -14,6 +14,17 @@ const missions =() =>{
                 </div>
                 
             </div>
+            <div className='row justify-content-center'>
+                <div className='col-md-8 col-sm-12'>
+                 La mission de notre entreprise consiste à :
+
+                    -Fournir une planification rapide de la maintenance pour les entreprise du secteur énergétique, industriel, etc… ;
+                    -Réaliser des prestations de qualités dans le secteur énergétique, industrie, télécommunication en matière d’inspections drone, et d’électricité dans une recherche constante de la satisfaction du client ;
+                    -Identifier, étudier, et résoudre les dysfonctionnements techniques existants dans le secteur de l’énergie, télécommunications.
+
+                    En outre ces missions sont effectuées par une organisation, une structuration et collaboration des différents services que regorgent notre VOCA SARA à savoir : 
+                </div>
+            </div>
             <div className='row justify-content-center mission-body'>
                 {/* <div className='col-10 mt-1 mb-5'>
                     <h6 className='mt-1'>
