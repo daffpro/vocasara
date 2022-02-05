@@ -98,7 +98,7 @@ const Section4 =() =>{
                     </div> 
                 </div>
                 <section>
-                    <div className="sep-section"></div>
+                    <div className="sep-section2"></div>
                 </section>
             </div>
         )

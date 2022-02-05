@@ -2,6 +2,7 @@ import React from 'react'
 const Section2 =() =>{
     return(
         <div>
+             
             <div id="landing-offer" className="pad-sec ">
                 <div className="container">
 

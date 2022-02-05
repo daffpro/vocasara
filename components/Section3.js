@@ -2,7 +2,10 @@ import React from 'react'
 import useInView from "react-cool-inview";
 const Section3 =() =>{
     return(
-            <div>
+            <div >
+               <section>
+                    <div className="sep-section4"></div>
+                </section>
                 <div id="features-section" className="pad-sec">
                     <div className="container">
                         <div className="title-section text-center animated fadeInDownBig" >
@@ -115,7 +118,7 @@ const Section3 =() =>{
                     </div> 
                 </div>
                 <section>
-                    <div className="sep-section"></div>
+                    <div className="sep-section3"></div>
                 </section>
             </div>
         )

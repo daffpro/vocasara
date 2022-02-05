@@ -20,7 +20,7 @@ const missions =() =>{
                 <br/>
 
                 &nbsp;-&gt; Fournir une planification rapide de la maintenance pour les entreprise du secteur énergétique, industriel, etc… ;<br/>
-                &nbsp;-&gt; Réaliser des prestations de qualités dans le secteur énergétique, industrie, télécommunication en matière d’inspections drone, et &nbsp; d’électricité dans une recherche constante de la satisfaction du client ;<br/>
+                &nbsp;-&gt; Réaliser des prestations de qualités dans le secteur énergétique, industrie, télécommunication en matière d’inspections drone, et  d’électricité dans une recherche constante de la satisfaction du client ;<br/>
                 &nbsp;-&gt; Identifier, étudier, et résoudre les dysfonctionnements techniques existants dans le secteur de l’énergie, télécommunications.<br/>
                     <br/><br/>
                     En outre ces missions sont effectuées par une organisation, une structuration et collaboration des différents services que regorgent notre VOCA SARA à savoir : 

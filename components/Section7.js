@@ -6,6 +6,7 @@ const Section7 =() =>{
     
     return(
         <div className='gallery-pad' id="galerie">
+            
             <div className="gallery">
                 <div className="gallery__column">
                     <a href="#galerie" className="gallery__link">
@@ -77,7 +78,10 @@ const Section7 =() =>{
                     </a>
                 </div>
             </div>
+
+           
         </div>
+
         )
     }
     
