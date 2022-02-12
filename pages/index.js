@@ -10,6 +10,7 @@ const Section4 = dynamic(() => import('../components/Section4'))
 const Section5 = dynamic(() => import('../components/Section5'))
 const Section6 = dynamic(() => import('../components/Section6'))
 const Section7 = dynamic(() => import('../components/Section7'))
+const Section8 = dynamic(() => import('../components/Presentation'))
 
 export default function Home() {
   const { observe, inView,ref } = useInView({
@@ -23,6 +24,7 @@ export default function Home() {
         <DynamicComponent />
         <Section2 />
         <Section7 />
+        <Section8 />
        
            
             <div ref={observe} className='2'>
