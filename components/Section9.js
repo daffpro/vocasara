@@ -13,11 +13,11 @@ const Section9 =() =>{
                         <div className="video-text container">
                             <div className="text-position">
                                 <div className="video-title">
-                                    <h2> Découvrez toute notre offre de formation</h2>                
+                                    <h2> Securisez en toue facilité</h2>                
                                 </div>
                                 <div className="video-p">
                                     <p>
-                                    Choisir l’ESP, c’est intégrer un établissement pluridisciplinaire de renommée mondiale, donner le meilleur de soi-même pour suivre une formation de haut niveau, et rejoindre une communauté de plus de 20 617 étudiantes et étudiants, et 30 000 alumni dans le monde entier.
+                                    Choisir vocasara, c’est choisir un meilleur dispositif de surveillance et de control respectant les normes internationales. Nous donnons le meilleur de la vidéosurveillance pour assurer au mieux la sécurité de vos infrastructures.
                                 </p>
                                 </div>
                             </div>
