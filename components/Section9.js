@@ -22,7 +22,7 @@ const Section9 =() =>{
                                 </div>
                             </div>
                             <div className="button-go">
-                                <button className="button-go-button"><p>Veillez cliquer pour voir les offres</p> &rarr;</button>
+                                <button className="button-go-button"><p>A partir de 29 900 FCFA</p> &rarr;</button>
                             </div>
                         </div>
                     </div>
