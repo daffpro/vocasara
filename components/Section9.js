@@ -36,10 +36,10 @@ const Section9 =() =>{
                         <div className="col-md-6 video2_gauche ">
                             <div className="container">
                                 <div className="video2_title">
-                                    <h2 >Recherche et Innovation</h2>
+                                    <h2 >Innovation</h2>
                                 </div>
                                 <div className="video2_p">
-                                    <p>La recherche et l’innovation sont au coeur de la stratégie de notre Ecole pour améliorer les performances de l’ESP et maintenir sa position de centre d’excellence.</p>
+                                    <p>La recherche et l’innovation sont au coeur de la stratégie de notre entreprise pour faciliter et emmener vos travaux dans une autre dimension.</p>
                                 </div>
                             </div>
                         </div>

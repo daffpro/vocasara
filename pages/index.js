@@ -23,8 +23,9 @@ export default function Home() {
     <Layout >
         <DynamicComponent />
         <Section2 />
-        <Section7 />
         <Section9 />
+        <Section7 />
+        
        
            
             <div ref={observe} className='2'>
