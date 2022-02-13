@@ -60,9 +60,7 @@ const Section2 =() =>{
                 </div> 
                 </div> 
             </div>
-            <section>
-                <div className="sep-section"></div>
-            </section>
+           
         </div>
         
        

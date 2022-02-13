@@ -49,7 +49,7 @@ const Section4 =() =>{
                             <img src="/img/raphael.jpeg" alt=""/>
                             <div className="magnifier">
                                 <div className="magnifier-inner">
-                                <h3>Raphael yikipedoin SARA</h3>
+                                <h3>Yikiedoin Raphaël Sara</h3>
                                 <p>CEO &amp; FOUNDER</p>
                                 <p>Chargé de l'orientation et de la mise en production</p>
                                 <ul className="social-icons">

@@ -3,7 +3,8 @@ import React from 'react'
 
 const Section9 =() =>{
     return(
-        <div className="present" >  
+        <div className="present" > 
+            
             <section className="video  text-light">
                 <div className="row">
                     <div className="col-md-6 col-sm-12 partie-video-gauche">
@@ -13,7 +14,7 @@ const Section9 =() =>{
                         <div className="video-text container">
                             <div className="text-position">
                                 <div className="video-title">
-                                    <h2> Securisez en toue facilité</h2>                
+                                    <h2> Sécurisez en toute facilité</h2>                
                                 </div>
                                 <div className="video-p">
                                     <p>
@@ -47,6 +48,7 @@ const Section9 =() =>{
                     </div>
                 </div>
             </section>
+           
           
         </div>
        

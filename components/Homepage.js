@@ -39,9 +39,7 @@ const Homepage =() =>{
                     </div>
                 </div>
             </div>
-            <section>
-                    <div className="sep-section"></div>
-            </section>
+            
             
             {/* <div className="historique">
                 <div className='row'>
