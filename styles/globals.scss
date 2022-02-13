@@ -2639,3 +2639,11 @@ section .section-title {
 .pad-sec2{
   background: rgb(17, 118, 177) !important;
 }
+@media (max-width:992px) {
+  .part-4{
+    display: none;
+  }
+  .part-3{
+    margin-top: -70px !important;
+  }
+}
