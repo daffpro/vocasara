@@ -1209,7 +1209,7 @@ iframe {width: 100%; height: 40vh; border: none; margin: 0; padding: 0; display:
     }
     display: grid;
     // height: 90vh;
-    // padding: 3vmin;
+    padding: 3vmin;
   * {
     position: relative;
     box-sizing: border-box;
@@ -1496,9 +1496,10 @@ iframe {width: 100%; height: 40vh; border: none; margin: 0; padding: 0; display:
   padding: 30px 0;
 }
 .pad-sec {
-  padding: 20px 0!important;
+  padding: 60px 0!important;
 
 }
+
 .offer-post h4 {
   margin-top: 15px;
   margin-bottom: 20px;
@@ -2404,7 +2405,7 @@ p.copyright {
     background-image: url(/img/secutirty1.jpg);
     background-size: cover;
   }
-  .video2,.video2_gauche,.video2_droite{
+  .video2,.video2_gauche{
     min-height: 450px;
   }
   .video2_title{
@@ -2465,11 +2466,176 @@ color: #1D2769;
   font-size: 1.2rem;
   font-weight: 400;
   line-height: 1.5;
+  color: #FFF;
 }
-.part-3{
+.part-4{
   height: 100vh;
   background-image: url(/img/banner_bis.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center ;
+}
+
+.activites{
+  // padding-top: 100px;
+  padding-bottom: 100px;
+}
+.droite-img{
+background-color: #a67c00;
+}
+.droite-img-b{
+  width: 80%;
+  padding-left: 50px;
+
+  }
+.gauche-img{
+  padding: 0 !important;
+}
+.part-3{
+margin-top: -100px !important;
+// #team {
+//     background: #dce9efee !important;
+// }
+
+.btn-primary:hover,
+.btn-primary:focus {
+    background-color: #178fd6;
+    border-color: #178fd6;
+    box-shadow: none;
+    outline: none;
+}
+
+.btn-primary {
+    color: rgb(154, 177, 231);
+    background-color: #178fd6;
+    border-color: #178fd6;
+}
+
+section {
+    padding: 60px 0;
+}
+
+section .section-title {
+    text-align: center;
+    color: #178fd6;
+    margin-bottom: 50px;
+    text-transform: uppercase;
+}
+
+#team .card {
+    border: none;
+    background: #ffffff;
+}
+
+.image-flip:hover .backside,
+.image-flip.hover .backside {
+    -webkit-transform: rotateY(0deg);
+    -moz-transform: rotateY(0deg);
+    -o-transform: rotateY(0deg);
+    -ms-transform: rotateY(0deg);
+    transform: rotateY(0deg);
+    border-radius: .25rem;
+}
+
+.image-flip:hover .frontside,
+.image-flip.hover .frontside {
+    -webkit-transform: rotateY(180deg);
+    -moz-transform: rotateY(180deg);
+    -o-transform: rotateY(180deg);
+    transform: rotateY(180deg);
+}
+
+.mainflip {
+    -webkit-transition: 1s;
+    -webkit-transform-style: preserve-3d;
+    -ms-transition: 1s;
+    -moz-transition: 1s;
+    -moz-transform: perspective(1000px);
+    -moz-transform-style: preserve-3d;
+    -ms-transform-style: preserve-3d;
+    transition: 1s;
+    transform-style: preserve-3d;
+    position: relative;
+}
+
+.frontside {
+    position: relative;
+    -webkit-transform: rotateY(0deg);
+    -ms-transform: rotateY(0deg);
+    z-index: 2;
+    margin-bottom: 30px;
+}
+
+.backside {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: white;
+    -webkit-transform: rotateY(-180deg);
+    -moz-transform: rotateY(-180deg);
+    -o-transform: rotateY(-180deg);
+    -ms-transform: rotateY(-180deg);
+    transform: rotateY(-180deg);
+    -webkit-box-shadow: 5px 7px 9px -4px rgb(158, 158, 158);
+    -moz-box-shadow: 5px 7px 9px -4px rgb(158, 158, 158);
+    box-shadow: 5px 7px 9px -4px rgb(158, 158, 158);
+}
+
+.frontside,
+.backside {
+    -webkit-backface-visibility: hidden;
+    -moz-backface-visibility: hidden;
+    -ms-backface-visibility: hidden;
+    backface-visibility: hidden;
+    -webkit-transition: 1s;
+    -webkit-transform-style: preserve-3d;
+    -moz-transition: 1s;
+    -moz-transform-style: preserve-3d;
+    -o-transition: 1s;
+    -o-transform-style: preserve-3d;
+    -ms-transition: 1s;
+    -ms-transform-style: preserve-3d;
+    transition: 1s;
+    transform-style: preserve-3d;
+}
+
+.frontside .card,
+.backside .card {
+    min-height: 312px;
+}
+
+.backside .card a {
+    font-size: 18px;
+    color: #a67c00 !important;
+  
+}
+.frontside .card{
+  // border: 2px solid #1D2769 !important;
+  background: #2461a2 !important;
+  color: #fff;
+  box-shadow: 5px 7px 9px -4px rgb(158, 158, 158);
+}
+.backside .card  {
+ 
+  background: #1D2769 !important;
+  color:#ffffff ;
+}
+
+.frontside .card .card-title
+{
+    color: #fff !important;
+}
+.backside .card .card-title {
+  color: #a67c00 !important;
+}
+
+.frontside .card .card-body img {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    background-color: #fff;
+}
+}
+.pad-sec2{
+  background: rgb(17, 118, 177) !important;
 }

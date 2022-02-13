@@ -29,10 +29,10 @@ export default function Home() {
         
        
            
-            <div ref={observe} className='2'>
+            {/* <div ref={observe} className='2'>
                 {inView && <Section3 />}
                 
-            </div>
+            </div> */}
       
          <Section4 />
          <Section5 />

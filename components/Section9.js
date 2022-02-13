@@ -7,10 +7,10 @@ const Section9 =() =>{
             
             <section className="video  text-light">
                 <div className="row">
-                    <div className="col-md-6 col-sm-12 partie-video-gauche">
+                    <div className="col-md-6  partie-video-gauche">
 
                     </div>
-                    <div className="col-md-6 col-sm-12  partie-video-droite">
+                    <div className="col-md-6   partie-video-droite">
                         <div className="video-text container">
                             <div className="text-position">
                                 <div className="video-title">

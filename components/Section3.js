@@ -2,11 +2,11 @@ import React from 'react'
 import useInView from "react-cool-inview";
 const Section3 =() =>{
     return(
-            <div >
+            <div className='pad-sec2' >
                <section>
                     <div className="sep-section4"></div>
                 </section>
-                <div id="features-section" className="pad-sec">
+                <div id="features-section" className="pad-sec ">
                     <div className="container">
                         <div className="title-section text-center animated fadeInDownBig" >
                             <div className="row justify-content-center">
