@@ -31,7 +31,7 @@ const Section2 =() =>{
                             <img src='/img/electric-tower (1).png' className='img-fluid'/>
                         </div>
                         <h4>Inspections &amp; Préventions </h4>
-                        <p>Systéme d'inspections par drone permettant d'auguementer la productivité et la maintenabilté des réseaux énergétiques.</p>
+                        <p>Systéme d'inspections par drone permettant d'augmenter la productivité et la maintenabilté des réseaux énergétiques.</p>
                     </div> 
                     </div> 
 

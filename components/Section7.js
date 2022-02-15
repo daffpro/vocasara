@@ -95,8 +95,29 @@ const Section7 =() =>{
                         </p>
                     </div>
                 </div>
-                <div className='col-md-12 part-4'>
-
+                <div className='col-lg-12  part-4'>
+                            <div className="overlay">
+                            </div>
+                            <div className="container video_container">
+                                <div className="row ">
+                                    <div className="col-lg-6  video2_gauche ">
+                                        <div className="container">
+                                            <div className="video2_title">
+                                                <h2>Une photo est plus belle prise par un drone !</h2>
+                                            </div>
+                                            <div className="video2_p">
+                                                <p>Des drones sont utilisés pour mettre en exergue vos produits sous tous les angles sans effort pour une qualité optimal. Nous réalisions des clips, des documentaires ainsi que des shooting photos partout au Sénégal.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div className="col-lg-6 video2_droite part_4_video ">
+                                        <img src="/img/1.jpeg" className='photo1'/>
+                                        <img src="/img/11.jpeg"className='photo2'/>
+                                        <img src="/img/8.jpeg" className='photo3'/>
+                                        <img src="/img/12.jpeg" className='photo4'/>
+                                    </div>
+                            </div>
+                    </div>
                 </div>
                 <div className='col-md-12 part-3'>
                     <section id="team" className="pb-5">
