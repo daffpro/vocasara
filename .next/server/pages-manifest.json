@@ -1,5 +1,14 @@
 {
+  "/Section9": "pages/Section9.html",
   "/_app": "pages/_app.js",
   "/_document": "pages/_document.js",
-  "/_error": "pages/_error.js"
+  "/api/hello": "pages/api/hello.js",
+  "/devis": "pages/devis.html",
+  "/historique": "pages/historique.html",
+  "/": "pages/index.html",
+  "/metiers": "pages/metiers.html",
+  "/missions": "pages/missions.html",
+  "/services": "pages/services.html",
+  "/_error": "pages/_error.js",
+  "/404": "pages/404.html"
 }

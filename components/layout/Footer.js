@@ -1,6 +1,7 @@
 import React from 'react'
 import { useEffect, useState } from "react";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import Link from 'next/link';
 const Footer =() =>{
     const [showButton, setShowButton] = useState(false);
     useEffect(() => {
@@ -56,10 +57,10 @@ const Footer =() =>{
                             <ul className="primary-footer__address">
                                 <li className="row justify-content-right">
                                     <ul className="reseau">
-                                        <li className="facebook"><a href="" className="item-top-nav-right"><FontAwesomeIcon icon={['fab','facebook']}/></a> </li>
-                                        <li className="instagram"><a href="" className="item-top-nav-right"><FontAwesomeIcon icon={['fab','instagram']}/></a> </li>
-                                        <li className="twitter"><a href="" className="item-top-nav-right"><FontAwesomeIcon icon={['fab','twitter']}/></a> </li>
-                                        <li className="linkedin"><a href="" className="item-top-nav-right"><FontAwesomeIcon icon={['fab','linkedin']}/></a> </li>
+                                        {/* <li className="facebook"><Link><a href="" className="item-top-nav-right"><FontAwesomeIcon icon={['fab','facebook']}/></a></Link>  </li> */}
+                                        <li className="instagram"><Link><a href="https://www.instagram.com/p/CZ7Ymnwjjtt/?utm_medium=share_sheet" className="item-top-nav-right"><FontAwesomeIcon icon={['fab','instagram']}/></a></Link> </li>
+                                        <li className="twitter"><Link><a href="https://twitter.com/vocasara?t=OvUnp4xDFPpd5MN1InG8EQ&s=08" className="item-top-nav-right"><FontAwesomeIcon icon={['fab','twitter']}/></a></Link> </li>
+                                        {/* <li className="linkedin"><Link><a href="" className="item-top-nav-right"><FontAwesomeIcon icon={['fab','linkedin']}/></a></Link> </li> */}
                                     </ul>
                                 </li>
                             </ul>

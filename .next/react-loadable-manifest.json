@@ -1,44 +1,80 @@
 {
-  "index.js -> ../components/Homepage": {
-    "id": "index.js -> ../components/Homepage",
+  "devis.js -> ../components/devis": {
+    "id": 2970,
     "files": [
-      "static/chunks/components_Homepage_js.js"
+      "static/chunks/970.0100641721684d7a.js"
+    ]
+  },
+  "historique.js -> ../components/historique": {
+    "id": 5529,
+    "files": [
+      "static/chunks/529.fb4e1680262183bc.js"
+    ]
+  },
+  "index.js -> ../components/Homepage": {
+    "id": 142,
+    "files": [
+      "static/chunks/142.920d02437c8efad1.js"
     ]
   },
   "index.js -> ../components/Section2": {
-    "id": "index.js -> ../components/Section2",
+    "id": 9204,
     "files": [
-      "static/chunks/components_Section2_js.js"
+      "static/chunks/204.0907a59d0cd46c60.js"
     ]
   },
   "index.js -> ../components/Section3": {
-    "id": "index.js -> ../components/Section3",
+    "id": 1357,
     "files": [
-      "static/chunks/components_Section3_js.js"
+      "static/chunks/357.c962c222dac74188.js"
     ]
   },
   "index.js -> ../components/Section4": {
-    "id": "index.js -> ../components/Section4",
+    "id": 4781,
     "files": [
-      "static/chunks/components_Section4_js.js"
+      "static/chunks/781.6f0826320e5563ba.js"
     ]
   },
   "index.js -> ../components/Section5": {
-    "id": "index.js -> ../components/Section5",
+    "id": 591,
     "files": [
-      "static/chunks/components_Section5_js.js"
+      "static/chunks/591.65cd4a075bf36a17.js"
     ]
   },
   "index.js -> ../components/Section6": {
-    "id": "index.js -> ../components/Section6",
+    "id": 3645,
     "files": [
-      "static/chunks/components_Section6_js.js"
+      "static/chunks/645.27bf215964db0a4b.js"
     ]
   },
   "index.js -> ../components/Section7": {
-    "id": "index.js -> ../components/Section7",
+    "id": 3549,
     "files": [
-      "static/chunks/components_Section7_js.js"
+      "static/chunks/549.b53f4be71dbf75a5.js"
+    ]
+  },
+  "index.js -> ../components/Section9": {
+    "id": 9476,
+    "files": [
+      "static/chunks/476.170f639c3d8438be.js"
+    ]
+  },
+  "metiers.js -> ../components/metiers": {
+    "id": 9783,
+    "files": [
+      "static/chunks/783.2481124e7407700b.js"
+    ]
+  },
+  "missions.js -> ../components/missions": {
+    "id": 605,
+    "files": [
+      "static/chunks/605.b0777027c925a447.js"
+    ]
+  },
+  "services.js -> ../components/services": {
+    "id": 3131,
+    "files": [
+      "static/chunks/131.7dabaee792bbed8b.js"
     ]
   }
 }
