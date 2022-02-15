@@ -1,6 +1,6 @@
 import React from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import { Carousel } from 'react-bootstrap';
+import Link from 'next/link';
 
 const Section7 =() =>{
     
@@ -107,6 +107,11 @@ const Section7 =() =>{
                                             </div>
                                             <div className="video2_p">
                                                 <p>Des drones sont utilisés pour mettre en exergue vos produits sous tous les angles sans effort pour une qualité optimal. Nous réalisions des clips, des documentaires ainsi que des shooting photos partout au Sénégal.</p>
+                                            </div>
+                                            <div className="button-go">
+                                            <Link href="/devis">
+                                                <button className="button-go-button"><p>Commander votre devis dés maintenant !</p> &rarr;</button>
+                                            </Link>
                                             </div>
                                         </div>
                                     </div>
@@ -320,7 +325,11 @@ const Section7 =() =>{
                     </section>
                 </div>
                 <div className='col-md-12 part-5 pt-5'>
-                    <h4 className='text-center'>Commander votre devis à tout moment !</h4>
+                    <div className="button-go2">
+                    <Link href="/devis">
+                        <button className="button-go-button2"><p>Commander votre devis dés maintenant !</p> &rarr;</button>
+                    </Link>
+                    </div>
                 </div>
                 
             </div>
