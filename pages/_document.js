@@ -18,7 +18,7 @@ class MyDocument extends Document {
           <NextScript />
         
           <script type="text/javascript" id="hs-script-loader" async defer src="//js-eu1.hs-scripts.com/25545127.js"></script>
-
+          
         </body>
       </Html>
     )

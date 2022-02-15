@@ -266,6 +266,7 @@ const Section7 =() =>{
                                         </div>
                                     </div>
                                 </div>
+                                
                                 {/* <div className="col-xs-12 col-sm-6 col-md-4">
                                     <div className="image-flip" ontouchstart="this.classNameList.toggle('hover');">
                                         <div className="mainflip">

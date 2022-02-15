@@ -2820,3 +2820,8 @@ section .section-title {
  .activites,.present{
    overflow: hidden;
  }
+ .devis_content{
+  margin:0;padding:0;
+  #wrapper{width:100vh;height:100vh;}
+  iframe{border-radius:0 !important;}
+ }

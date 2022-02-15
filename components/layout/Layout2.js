@@ -6,7 +6,7 @@ import Header from "./Header";
 import Footer from "./Footer";
 
 
-const Layout = ({children, title='Volantis - Inspection par drone'})  => {
+const Layout2 = ({children, title='Volantis - Devis personnalisé'})  => {
     return (
         <div>
             <Head>
@@ -21,10 +21,10 @@ const Layout = ({children, title='Volantis - Inspection par drone'})  => {
                 <script src="//embed.typeform.com/next/embed.js"></script>
 
             </Head>
-            <Header/>
+            {/* <Header/> */}
                 {children}
-            <Footer/>
+            {/* <Footer/> */}
         </div>
     )
 }
-export default Layout;
+export default Layout2;

@@ -6,7 +6,7 @@ import dynamic from 'next/dynamic';
 const Metiers = dynamic(() => import('../components/metiers'))
 
 
-export default function historique() {
+export default function metiers() {
   
 
  
