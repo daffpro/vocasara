@@ -109,7 +109,7 @@ const Section7 =() =>{
                                                 <p>Des drones sont utilisés pour mettre en exergue vos produits sous tous les angles sans effort pour une qualité optimal. Nous réalisions des clips, des documentaires ainsi que des shooting photos partout au Sénégal.</p>
                                             </div>
                                             <div className="button-go">
-                                            <Link href="/devis">
+                                            <Link href="/devis" target={"_blank"}>
                                                 <button className="button-go-button"><p>Commander votre devis dés maintenant !</p> &rarr;</button>
                                             </Link>
                                             </div>
@@ -326,7 +326,7 @@ const Section7 =() =>{
                 </div>
                 <div className='col-md-12 part-5 pt-5'>
                     <div className="button-go2">
-                    <Link href="/devis">
+                    <Link href="/devis" target={"_blank"}>
                         <button className="button-go-button2"><p>Commander votre devis dés maintenant !</p> &rarr;</button>
                     </Link>
                     </div>

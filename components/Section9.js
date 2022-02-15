@@ -23,7 +23,7 @@ const Section9 =() =>{
                                 </div>
                             </div>
                             <div className="button-go">
-                            <Link href="/devis">
+                            <Link href="/devis" target={"_blank"}>
                                 <button className="button-go-button"><p>A partir de 29 900 FCFA</p> &rarr;</button>
                             </Link >
                             </div>
