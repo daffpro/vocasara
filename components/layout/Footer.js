@@ -24,7 +24,7 @@ const Footer =() =>{
     return(
         <div>
              <footer className="primary-footer" allowFullScreen>
-                <div className="primary-footer-area container-fluid">
+                <div className="primary-footer-area container-fluid" id="contacts">
                     <div className="row primary-footer__links justify-content-center">
                         <div>
                             <ul className="primary-footer__copyright">

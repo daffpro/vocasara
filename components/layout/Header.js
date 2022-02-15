@@ -19,11 +19,11 @@ function MobileNav({open, setOpen}) {
                     <NavLink to="/missions" className="lien">
                         Missions
                     </NavLink >
-                    <NavLink to="/services" className="lien">
+                    <NavLink to="#services" className="lien">
                         Services
                     </NavLink >
-                    <NavLink to="/metiers" className="lien">
-                        Metiers
+                    <NavLink to="#contacts" className="lien">
+                        Contactez-nous
                     </NavLink >
             </div>  
         </div>

@@ -126,7 +126,7 @@ const Section7 =() =>{
                 </div>
                 <div className='col-md-12 part-3'>
                     <section id="team" className="pb-5">
-                        <div className="container">
+                        <div className="container" id="services">
                             {/* <h2 className="section-title ">Nos domaines d'activités</h2> */}
                             <div className="row">
                                 <div className="col-xs-12 col-sm-6 col-md-4">
