@@ -8,13 +8,13 @@ const Section6 =() =>{
                         <div className="container">
                         <div className="row">
                             <div className="col-sm-4">
-                                <a href="#"><FontAwesomeIcon icon='map-marked-alt' className='icon'/>Dakar(Sénégal), Hann Maristes I Villa numéro B 113.</a>
+                                <a href="#" aria-label="location"><FontAwesomeIcon icon='map-marked-alt' className='icon'/>Dakar(Sénégal), Hann Maristes I Villa numéro B 113.</a>
                             </div> 
                             <div className="col-sm-4">
-                                <a href="tel:+221338322652"><FontAwesomeIcon icon='phone'  className='icon'/>+221 33 832 26 52</a>
+                                <a href="tel:+221338322652" aria-label="tel"><FontAwesomeIcon icon='phone'  className='icon'/>+221 33 832 26 52</a>
                             </div>
                             <div className="col-sm-4">
-                                <a href="mailto:hello@hotmail.com"><FontAwesomeIcon icon='envelope'  className='icon'/>hello@hotmail.com</a>
+                                <a href="mailto:hello@hotmail.com" aria-label="mail"><FontAwesomeIcon icon='envelope'  className='icon'/>support@vocasara.com</a>
                             </div>
                         </div>
                         </div> 
