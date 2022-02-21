@@ -80,7 +80,7 @@ const Footer =() =>{
                         <div className="row justify-content-center">
                             <div className="col-sm-8 col-sm-offset-2">
                                 <p className="copyright">
-                                    &copy; 2022 VOCASARA - <a href="">All rights reserved</a>
+                                    &copy; 2022 VOCASARA - All rights reserved
                                 </p>
                             </div> 
                         </div> 
