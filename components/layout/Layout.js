@@ -11,11 +11,7 @@ const Layout = ({children, title='Volantis - Inspection par drone'})  => {
         <div>
             <Head>
                 <title>{title}</title>
-                <meta charSet="utf-8" />
-                <meta name="viewport" content="initial-scale=1.0, width=device-width" />  
-                <meta name=" robots" content=" index, follow" />
-                <meta name=" author" content="Dahibou KA"/>
-                <meta name=" copyright" content="VOCASARA"/>
+                
                 <link type="text/css" rel="stylesheet" href="/static/animate.css"/>
                 <script type="text/javascript" src="/static/jquery.js"></script>
                 <script type="text/javascript" src="/static/debut.js"></script>

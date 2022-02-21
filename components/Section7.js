@@ -210,7 +210,7 @@ const Section7 =() =>{
                                                         <p><img className=" img-fluid" src="/img/iot.png" alt="card image"/></p>
                                                         <h4 className="card-title">Ventes d'équipements</h4>
                                                         <p className="card-text">Commercialisation de drones et équipements électriques </p>
-                                                        <a  className="btn btn-primary btn-sm"><i className="fa fa-plus"></i></a>
+                                                        {/* <a  className="btn btn-primary btn-sm"><i className="fa fa-plus"></i></a> */}
                                                     </div>
                                                 </div>
                                             </div>

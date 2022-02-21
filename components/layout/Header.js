@@ -35,7 +35,7 @@ const Header =() =>{
         <nav className="flex filter  bg-white  py-2 h-20 items-center">
             <MobileNav open={open} setOpen={setOpen}/>
             <div className="w-3/12 flex items-center">
-                <a className="text-2xl font-semibold" href="/"><img src='/img/logo.png' className='object-scale-down logo-img'/></a>
+                <a className="text-2xl font-semibold" href="/"><img src='/img/logo.png' className='object-scale-down logo-img' alt='logo'/></a>
             </div>
             <div className="w-9/12 flex justify-end items-center">
 
