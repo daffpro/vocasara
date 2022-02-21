@@ -48,7 +48,7 @@ const Footer =() =>{
                     </div>
                     <div className="row mt-5 primary-footer__company justify-content-center">
                         <div className="col-lg-3 text-light logo">
-                            <img className="footer-img" src="/img/logo2.png" alt="" height=""/>
+                            <img className="footer-img" src="/img/logo2.png" alt="logo" height=""/>
                         </div>
                         <div className="col-lg-5 mt-3 diayante" >
                             <strong className="titrefooter text-light">&nbsp; DIAYANTE  &nbsp; BA &nbsp; NAW</strong>
@@ -80,7 +80,7 @@ const Footer =() =>{
                         <div className="row justify-content-center">
                             <div className="col-sm-8 col-sm-offset-2">
                                 <p className="copyright">
-                                    &copy; 2022 VOCASARA - Created By <a href="">Dahibou KA</a>
+                                    &copy; 2022 VOCASARA - <a href="">All rights reserved</a>
                                 </p>
                             </div> 
                         </div> 

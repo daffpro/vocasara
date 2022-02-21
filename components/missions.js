@@ -49,7 +49,7 @@ const missions =() =>{
                     </p>
                 </div>
                 <div className='col-lg-5 col-sm-12 p-5'>
-                    <img src='/img/slider6.jpeg' className='img-fluid'/>
+                    <img src='/img/slider6.jpeg' className='img-fluid' alt="services d'inspections"/>
                 </div>
             </div>
             <div className='row justify-content-center'>
@@ -59,7 +59,7 @@ const missions =() =>{
             </div>
             <div className='row justify-content-center mission-body'>
                 <div className='col-lg-5 col-sm-12 p-5'>
-                    <img src='/img/données.jpg' className='img-fluid'/>
+                    <img src='/img/données.jpg' className='img-fluid' alt="traitement des données"/>
                 </div>
                 <div className='col-lg-5 col-sm-12 align-items-center p-5'>
 

@@ -33,7 +33,7 @@ const Homepage =() =>{
                             </div>
 
                             <div className="image">
-                                <img src='/img/presentation1.jpeg' alt='' />
+                                <img src='/img/presentation1.jpeg' alt="Baniére vocasara" />
                             </div>
                         </div>
                     </div>

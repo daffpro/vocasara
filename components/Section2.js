@@ -28,7 +28,7 @@ const Section2 =() =>{
                     <div className="col-sm-4">
                     <div className="offer-post text-center animated fadeInLeft" >
                         <div className="offer-icon">
-                            <img src='/img/electric-tower (1).png' className='img-fluid'/>
+                            <img src='/img/electric-tower (1).png' className='img-fluid' alt="inspections"/>
                         </div>
                         <h4>Inspections &amp; Préventions </h4>
                         <p>Systéme d'inspections par drone permettant d'augmenter la productivité et la maintenabilté des réseaux énergétiques.</p>
@@ -38,7 +38,7 @@ const Section2 =() =>{
                     <div className="col-sm-4">
                     <div className="offer-post text-center animated fadeInUp" >
                         <div className="offer-icon">
-                            <img src='/img/camera-de-videosurveillance.png' className='img-fluid'/>
+                            <img src='/img/camera-de-videosurveillance.png' className='img-fluid' alt='securité'/>
                         </div>
                         <h4>Sécurité</h4>
                         <p>Installation de systémes modernes de surveillances</p>
@@ -48,7 +48,7 @@ const Section2 =() =>{
                     <div className="col-sm-4">
                     <div className="offer-post text-center animated fadeInRight" >
                         <div className="offer-icon">
-                            <img src='/img/videography.png' className='img-fluid'/>
+                            <img src='/img/videography.png' className='img-fluid' alt="media"/>
                         </div>
                         <h4>Media</h4>
                         <p>Couverture médiatique évenements, promotions d'activités, clips.</p>

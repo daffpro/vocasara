@@ -12,7 +12,7 @@ const Section5 =() =>{
                             <div className="col-xs-4 col-sm-2">
                                 <div className="client">
                                     {/* <a href="https://psesenelec.com/" target={"_blank"}><img src="/img/LOGO-senelec-HD.png" alt=""/></a> */}
-                                    <a href="" ><img src="/img/tba.png" alt=""/></a>
+                                    <img src="/img/tba.png" alt="TBA-(touba automobile)"/>
 
                                 </div>
                             </div>

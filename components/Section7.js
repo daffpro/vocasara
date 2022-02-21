@@ -13,14 +13,14 @@ const Section7 =() =>{
                             <div className="gallery__column">
                                 <a href="#galerie" className="gallery__link">
                                     <figure className="gallery__thumb">
-                                        <img src="/img/slider4.jpeg" alt="Portrait by Mari Lezhava" className="gallery__image"/>
+                                        <img src="/img/slider4.jpeg" alt="Equipes dynamiques" className="gallery__image"/>
                                         <figcaption className="gallery__caption">Equipes dynamiques</figcaption>
                                     </figure>
                                 </a>
                             
                                     <a href="#galerie" className="gallery__link">
                                         <figure className="gallery__thumb">
-                                            <img src="/img/slider5.jpeg" alt="Portrait by Oladimeji Odunsi" className="gallery__image" />
+                                            <img src="/img/slider5.jpeg" alt="Spécialistes en énergie" className="gallery__image" />
                                             <figcaption className="gallery__caption">Spécialistes en énergie</figcaption>
                                         </figure>
                                     </a>
@@ -30,13 +30,13 @@ const Section7 =() =>{
                             <div className="gallery__column">                    
                                 <a href="#galerie"classNameName="gallery__link">
                                     <figure className="gallery__thumb">
-                                        <img src="/img/slider3 (2).jpeg" alt="Portrait by Ivana Cajina" className="gallery__image"/>
+                                        <img src="/img/slider3 (2).jpeg" alt="Toujours plus proche de vous" className="gallery__image"/>
                                         <figcaption className="gallery__caption">Toujours plus proche de vous</figcaption>
                                     </figure>
                                 </a>
                                 <a href="#galerie"  className="gallery__link">
                                     <figure className="gallery__thumb">
-                                        <img src="/img/silder10.jpeg" alt="Portrait by Sam Burriss" className="gallery__image"/>
+                                        <img src="/img/silder10.jpeg" alt="Investis dans l'éducation" className="gallery__image"/>
                                         <figcaption className="gallery__caption">Investis dans l'éducation</figcaption>
                                     </figure>
                                 </a>  
@@ -45,20 +45,20 @@ const Section7 =() =>{
                             <div className="gallery__column">
                                 <a href="#galerie" className="gallery__link">
                                     <figure className="gallery__thumb">
-                                        <img src="/img/slider9.jpeg" alt="Portrait by Mari Lezhava" className="gallery__image"/>
+                                        <img src="/img/slider9.jpeg" alt="Couverture médiatique" className="gallery__image"/>
                                         <figcaption className="gallery__caption">Couverture médiatique</figcaption>
                                     </figure>
                                 </a>
                                 
                                 <a href="#galerie" className="gallery__link">
                                     <figure className="gallery__thumb">
-                                        <img src="/img/slider8.jpeg" alt="Portrait by Sam Burriss" className="gallery__image"/>
+                                        <img src="/img/slider8.jpeg" alt="Dynamisme sur le terrain" className="gallery__image"/>
                                         <figcaption className="gallery__caption">Dynamisme sur le terrain</figcaption>
                                     </figure>
                                 </a>
                                 <a href="#galerie"  className="gallery__link">
                                     <figure className="gallery__thumb">
-                                        <img src="/img/drone-g4dcd1fa1d_1920.jpg" alt="Portrait by Sam Burriss" className="gallery__image"/>
+                                        <img src="/img/drone-g4dcd1fa1d_1920.jpg" alt="Voler plus proche de vous" className="gallery__image"/>
                                         <figcaption className="gallery__caption">Voler plus proche de vous</figcaption>
                                     </figure>
                                 </a>
@@ -67,14 +67,14 @@ const Section7 =() =>{
                             <div className="gallery__column">
                                 <a href="#galerie"  className="gallery__link">
                                     <figure className="gallery__thumb">
-                                        <img src="/img/slider2.jpeg" alt="Portrait by Guilian Fremaux" className="gallery__image"/>
+                                        <img src="/img/slider2.jpeg" alt="Equipements de qualités" className="gallery__image"/>
                                         <figcaption className="gallery__caption">Equipements de qualités</figcaption>
                                     </figure>
                                 </a>
 
                                 <a href="#galerie"  className="gallery__link">
                                     <figure className="gallery__thumb">
-                                        <img src="/img/slider11.jpeg" alt="Portrait by Jasmin Chew" className="gallery__image"/>
+                                        <img src="/img/slider11.jpeg" alt="Acharnement dans le travail" className="gallery__image"/>
                                         <figcaption className="gallery__caption">Acharnement dans le travail</figcaption>
                                     </figure>
                                 </a>
@@ -116,10 +116,10 @@ const Section7 =() =>{
                                         </div>
                                     </div>
                                     <div className="col-lg-6 video2_droite part_4_video ">
-                                        <img src="/img/1.jpeg" className='photo1'/>
-                                        <img src="/img/11.jpeg"className='photo2'/>
-                                        <img src="/img/8.jpeg" className='photo3'/>
-                                        <img src="/img/12.jpeg" className='photo4'/>
+                                        <img src="/img/1.jpeg" className='photo1' alt='photo1'/>
+                                        <img src="/img/11.jpeg"className='photo2' alt='photo2'/>
+                                        <img src="/img/8.jpeg" className='photo3' alt='photo3'/>
+                                        <img src="/img/12.jpeg" className='photo4' alt='photo4'/>
                                     </div>
                             </div>
                     </div>
@@ -138,7 +138,7 @@ const Section7 =() =>{
                                                         <p><img className=" img-fluid" src="/img/creation-de-sites-web.png" alt="card image" /></p>
                                                         <h4 className="card-title">Web design</h4>
                                                         <p className="card-text">Développement d'applications web, robustes, maintenable, flexible.</p>
-                                                        <a  className="btn btn-primary btn-sm"><i className="fa fa-plus"></i></a>
+                                                        {/* <a  className="btn btn-primary btn-sm"><i className="fa fa-plus"></i></a> */}
                                                     </div>
                                                 </div>
                                             </div>
@@ -162,7 +162,7 @@ const Section7 =() =>{
                                                         <p><img className=" img-fluid" src="/img/camera-de-videosurveillance.png" alt="card image"/></p>
                                                         <h4 className="card-title">Sécurité</h4>
                                                         <p className="card-text">Installation vidéosurveillance et alarmes.</p>
-                                                        <a  className="btn btn-primary btn-sm"><i className="fa fa-plus"></i></a>
+                                                        {/* <a  className="btn btn-primary btn-sm"><i className="fa fa-plus"></i></a> */}
                                                     </div>
                                                 </div>
                                             </div>
@@ -186,7 +186,7 @@ const Section7 =() =>{
                                                         <p><img className=" img-fluid" src="/img/videography.png" alt="card image"/></p>
                                                         <h4 className="card-title">Media</h4>
                                                         <p className="card-text">Accompagne dans la couverture de vos évenements, clips, promotions d'activités.</p>
-                                                        <a  className="btn btn-primary btn-sm"><i className="fa fa-plus"></i></a>
+                                                        {/* <a  className="btn btn-primary btn-sm"><i className="fa fa-plus"></i></a> */}
                                                     </div>
                                                 </div>
                                             </div>
@@ -234,7 +234,7 @@ const Section7 =() =>{
                                                         <p><img className=" img-fluid" src="/img/electric-tower (1).png" alt="card image"/></p>
                                                         <h4 className="card-title">Inspections et préventions</h4>
                                                         <p className="card-text">Inspections sur la production, dans le secteur de l'énergie.</p>
-                                                        <a  className="btn btn-primary btn-sm"><i className="fa fa-plus"></i></a>
+                                                        {/* <a  className="btn btn-primary btn-sm"><i className="fa fa-plus"></i></a> */}
                                                     </div>
                                                 </div>
                                             </div>
@@ -245,25 +245,25 @@ const Section7 =() =>{
                                                         <p className="card-text">Réalisation de travaux d'inspections de domaines énergetique, recensement, maintenance préventive et curative.</p>
                                                         <ul className="list-inline">
                                                             <li className="list-inline-item">
-                                                                <a className="social-icon text-xs-center" target="_blank" href="https://www.fiverr.com/share/qb8D02">
+                                                                {/* <a className="social-icon text-xs-center" target="_blank" href="https://www.fiverr.com/share/qb8D02">
                                                                     <i className="fa fa-facebook"></i>
-                                                                </a>
+                                                                </a> */}
                                                             </li>
                                                             <li className="list-inline-item">
-                                                                <a className="social-icon text-xs-center" target="_blank" href="https://www.fiverr.com/share/qb8D02">
+                                                                {/* <a className="social-icon text-xs-center" target="_blank" href="https://www.fiverr.com/share/qb8D02">
                                                                     <i className="fa fa-twitter"></i>
-                                                                </a>
+                                                                </a> */}
                                                             </li>
                                                             <li className="list-inline-item">
-                                                                <a className="social-icon text-xs-center" target="_blank" href="https://www.fiverr.com/share/qb8D02">
+                                                                {/* <a className="social-icon text-xs-center" target="_blank" href="https://www.fiverr.com/share/qb8D02">
                                                                     <i className="fa fa-skype"></i>
-                                                                </a>
+                                                                </a> */}
                                                             </li>
-                                                            <li className="list-inline-item">
+                                                            {/* <li className="list-inline-item">
                                                                 <a className="social-icon text-xs-center" target="_blank" href="https://www.fiverr.com/share/qb8D02">
                                                                     <i className="fa fa-google"></i>
                                                                 </a>
-                                                            </li>
+                                                            </li> */}
                                                         </ul>
                                                     </div>
                                                 </div>

@@ -21,7 +21,7 @@ const Section4 =() =>{
                         
                         <div className="col-sm-4">
                             <div className="member-team animated fadeInLeft">
-                            <img src="/img/gianni2.jpeg" alt=""/>
+                            <img src="/img/gianni2.jpeg" alt="Responsable CTAD"/>
                             <div className="magnifier">
                                 <div className="magnifier-inner">
                                 <h3>Gianni Wilkes ANDJEMBE</h3>
@@ -46,7 +46,7 @@ const Section4 =() =>{
                         
                         <div className="col-sm-4">
                             <div className="member-team animated fadeInUp" >
-                            <img src="/img/raphael.jpeg" alt=""/>
+                            <img src="/img/raphael.jpeg" alt="CEO"/>
                             <div className="magnifier">
                                 <div className="magnifier-inner">
                                 <h3>Yikiedoin Raphaël Sara</h3>
@@ -71,7 +71,7 @@ const Section4 =() =>{
                        
                         <div className="col-sm-4">
                             <div className="member-team animated fadeInRight" >
-                            <img src="/img/thier.jpeg" alt=""/>
+                            <img src="/img/thier.jpeg" alt="Responsable production media"/>
                             <div className="magnifier">
                                 <div className="magnifier-inner">
                                 <h3>Thierno Barry</h3>
