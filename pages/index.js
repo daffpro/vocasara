@@ -23,42 +23,17 @@ export default function Home() {
   return (
     <Layout >
         <DynamicComponent />
-        <Section2 />
-        <Section9 />
-        <Section7 />
-        
-       
-           
-            {/* <div ref={observe} className='2'>
-                {inView && <Section3 />}
+        <div ref={observe} >
                 
-            </div> */}
-      
-         <Section4 />
-         <Section5 />
-         <Section6 />
-        {/* <Suspense fallback={<div>Loading...</div>}>
-           
-            <div ref={observe}>
                 {inView && <Section2 />}
-                
-            </div>
-            
-        </Suspense> */}
-        
-        {/* <div ref={observe}>
-            {inView && <Section3/>}
-        </div>
-        <div ref={observe}>
-            {inView && <Section5/>}
-        </div>
-        <div ref={observe}>
-            {inView && <Section4/>}
-        </div>
-        <div ref={observe}>
-            {inView && <Section6/>}
-        </div> */}
-                    
+                {inView && <Section9 />}    
+        </div>    
+        <div ref={observe} >
+                {inView && <Section7 />}
+                {inView && <Section4 />}
+                {inView && <Section5 />}
+                {inView && <Section6 />}  
+        </div>                
     </Layout>
     
   )

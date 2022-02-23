@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[970],{2970:function(e,t,i){i.r(t);var n=i(5893);i(7294);t.default=function(){return(0,n.jsx)("div",{className:"devis_content",children:(0,n.jsx)("div",{id:"wrapper","data-tf-widget":"SUhPZvvG","data-tf-inline-on-mobile":!0,"data-tf-medium":"snippet"})})}}}]);

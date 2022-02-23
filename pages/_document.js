@@ -10,7 +10,7 @@ class MyDocument extends Document {
       <Html lang="fr">
         <Head>
                 <meta charSet="utf-8" />
-                <meta name="viewport" content="initial-scale=1.0, width=device-width" />  
+                {/* <meta name="viewport" content="viewport-fit=cover" /> */}
                 <meta name=" robots" content=" index, follow" />
                 <meta name=" author" content="Dahibou KA"/>
                 <meta name=" copyright" content="VOCASARA"/>
