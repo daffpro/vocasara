@@ -1,7 +1,7 @@
 import Layout from '../components/layout/Layout'
 import useInView from "react-cool-inview";
 import dynamic from 'next/dynamic';
-
+import Script from 'next/script';
 
 const DynamicComponent = dynamic(() => import('../components/Homepage'))
 const Section2 = dynamic(() => import('../components/Section2'))
@@ -21,23 +21,30 @@ export default function Home() {
 
  
   return (
-    <Layout >
-        <DynamicComponent />
-        <div ref={observe} >
-                
-                {inView && <Section2 />}
-                {inView && <Section9 />}    
-        </div>    
-        <div ref={observe} >
-                {inView && <Section7 />}
-                
-        </div>  
-        <div ref={observe} >
-                {inView && <Section4 />}
-                {inView && <Section5 />}
-                {inView && <Section6 />}  
-        </div>              
-    </Layout>
-    
+
+    <>
+        <Script
+            src="https://www.google-analytics.com/analytics.js"
+            strategy="lazyOnload"
+        />
+  
+        <Layout >
+            <DynamicComponent />
+            <div ref={observe} >
+                    
+                    {inView && <Section2 />}
+                    {inView && <Section9 />}    
+            </div>    
+            <div ref={observe} >
+                    {inView && <Section7 />}
+                    
+            </div>  
+            <div ref={observe} >
+                    {inView && <Section4 />}
+                    {inView && <Section5 />}
+                    {inView && <Section6 />}  
+            </div>              
+        </Layout>
+    </>
   )
 }
