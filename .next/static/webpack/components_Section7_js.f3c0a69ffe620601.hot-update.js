@@ -7,7 +7,7 @@
  * or disable the default devtool with "devtool: false".
  * If you are looking for production-ready output files, see mode: "production" (https://webpack.js.org/configuration/mode/).
  */
-(self["webpackChunk_N_E"] = self["webpackChunk_N_E"] || []).push([["components_Section7_js"],{
+self["webpackHotUpdate_N_E"]("components_Section7_js",{
 
 /***/ "./components/Section7.js":
 /*!********************************!*\
@@ -19,4 +19,4 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var reac
 
 /***/ })
 
-}]);
+});

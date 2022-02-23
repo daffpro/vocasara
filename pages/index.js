@@ -30,10 +30,13 @@ export default function Home() {
         </div>    
         <div ref={observe} >
                 {inView && <Section7 />}
+                
+        </div>  
+        <div ref={observe} >
                 {inView && <Section4 />}
                 {inView && <Section5 />}
                 {inView && <Section6 />}  
-        </div>                
+        </div>              
     </Layout>
     
   )

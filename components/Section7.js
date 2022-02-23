@@ -28,12 +28,12 @@ const Section7 =() =>{
                             </div>
                             
                             <div className="gallery__column">                    
-                                <a href="#galerie" className="gallery__link">
+                                <a href="#galerie"  className="gallery__link">
                                     <figure className="gallery__thumb">
-                                        <img src="/img/slider3 (2).jpeg" alt="Toujours plus proche de vous" className="gallery__image"/>
-                                        <figcaption className="gallery__caption">Toujours plus proche de vous</figcaption>
+                                        <img src="/img/slider3 (2).jpeg" alt="Proche de vous" className="gallery__image"/>
+                                        <figcaption className="gallery__caption">Proche de vous</figcaption>
                                     </figure>
-                                </a>
+                                </a> 
                                 <a href="#galerie"  className="gallery__link">
                                     <figure className="gallery__thumb">
                                         <img src="/img/silder10.jpeg" alt="Investis dans l'éducation" className="gallery__image"/>
