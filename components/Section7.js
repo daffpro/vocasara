@@ -28,7 +28,7 @@ const Section7 =() =>{
                             </div>
                             
                             <div className="gallery__column">                    
-                                <a href="#galerie"classNameName="gallery__link">
+                                <a href="#galerie" className="gallery__link">
                                     <figure className="gallery__thumb">
                                         <img src="/img/slider3 (2).jpeg" alt="Toujours plus proche de vous" className="gallery__image"/>
                                         <figcaption className="gallery__caption">Toujours plus proche de vous</figcaption>

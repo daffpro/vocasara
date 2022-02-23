@@ -11,16 +11,16 @@ const Layout = ({children, title='Volantis - Inspection par drone'})  => {
         <div>
             <Head>
                 <title>{title}</title>
-                <meta name="viewport" content="viewport-fit = cover" />
-                <meta name="description" content="Vocasar Suarl, apporte un large choix de services graces à des technologies de nouvelle generation dans les domaines que sont les inspections énergetiques, la videosurveillance, et la couverture médiatique(photo, vidéo, documentaires, vidéo clip)." />
+                <meta name="viewport" content="width=device-width, initial-scale=1" />
                 <link type="text/css" rel="stylesheet" href="/static/animate.css"/>
-                <script type="text/javascript" src="/static/jquery.js"></script>
-                <script type="text/javascript" src="/static/debut.js"></script>
-                <script src="//embed.typeform.com/next/embed.js"></script>
+               
 
             </Head>
             <Header/>
                 {children}
+                <script type="text/javascript" src="/static/jquery.js"></script>
+                <script type="text/javascript" src="/static/debut.js"></script>
+                <script src="//embed.typeform.com/next/embed.js"></script>
             <Footer/>
         </div>
     )
