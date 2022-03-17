@@ -2462,12 +2462,24 @@ word-break: break-word;
 font-family: "Poppins",sans-serif;
 color: #1D2769;
 }
+.pass-h2{
+  word-break: break-word;
+  font-family: "Poppins",sans-serif;
+  color: #a67c00;
+  }
 .p-pass{
   font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;
   font-size: 1.2rem;
   font-weight: 400;
   line-height: 1.5;
   color: #FFF;
+}
+.pass-p{
+  font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: rgb(8, 2, 59);
 }
 // .part-4{
 //   height: 100vh;
@@ -2483,7 +2495,7 @@ color: #1D2769;
   padding-bottom: 100px;
 }
 .droite-img{
-background-color: #a67c00;
+// background-color: #a67c00;
 }
 .droite-img-b{
   width: 80%;
@@ -2491,10 +2503,18 @@ background-color: #a67c00;
 
   }
 .gauche-img{
-  padding: 0 !important;
+  // padding: 0 !important;
+  // background-image: url(/img/undraw_circuit_board_4c4d.png);
+  // background-size: cover;
+  // background-position: center;
+
 }
 .part-3{
 margin-top: -100px !important;
+// background-image: url(/img/8136-min.jpg);
+// background-size: contain;
+// background-position: bottom;
+// background-repeat: no-repeat;
 // #team {
 //     background: #dce9efee !important;
 // }
@@ -2890,4 +2910,18 @@ section .section-title {
   color: #fff;
   background-color: #1D2769;
   width: 100%;
+}
+.iot-section{
+  padding: 75px 0 !important;
+}
+.illi{
+  padding-top: 75px  !important;
+}
+.illi-g{
+  background-image: url(/img/8136-min.jpg);
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.rounded-but{
+  border-radius:22.5rem !important;
 }
