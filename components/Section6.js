@@ -3,7 +3,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 const Section6 =() =>{
     return(
             <div>
-               <section id="contact">
+               <sectio>
                     <div className="contact-info">
                         <div className="container">
                         <div className="row">
@@ -19,7 +19,7 @@ const Section6 =() =>{
                         </div>
                         </div> 
                     </div> 
-                </section>
+                </sectio>
             </div>
         )
     }
