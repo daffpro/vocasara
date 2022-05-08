@@ -18,11 +18,11 @@ function MobileNav({open, setOpen}) {
                     </NavLink>
                     <NavLink to="/missions" className="lien">
                         Missions
-                    {/* </NavLink >
-                    <NavLink to="#services" className="lien">
-                        Services */}
                     </NavLink >
-                    <NavLink to="#contact" className="lien">
+                    <NavLink to="/#services" className="lien">
+                        Formations
+                    </NavLink >
+                    <NavLink to="/#contact" className="lien">
                         Contactez-nous!
                     </NavLink >
             </div>  
@@ -55,10 +55,10 @@ const Header =() =>{
                     <NavLink to="/missions" className="lien">
                         Missions
                     </NavLink >
-                    {/* <NavLink to="#services" className="lien">
-                        Services
-                    </NavLink > */}
-                    <NavLink to="#contact" className="lien">
+                    <NavLink to="/#services" className="lien">
+                        Formations
+                    </NavLink >
+                    <NavLink to="/#contact" className="lien">
                         Contactez-nous!
                     </NavLink >
                 </div>
