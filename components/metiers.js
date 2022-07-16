@@ -9,7 +9,7 @@ const metiers =() =>{
             <div className='metier-banner'>
                 <div className='layer'>
                     <h2 className='metier-title'>
-                        METIERS
+                        Gallery
                     </h2>
                 </div>
                 
@@ -18,12 +18,10 @@ const metiers =() =>{
                   <h4 className='text-center'>Chez vocasara, nous mettons tous les metiers au service du digital</h4>
             </div>
             <div className='row justify-content-center metier-body'>
-                <div className='col-md-6 col-sm-12'>
-                    <h4></h4>
-                    <p></p>    
-                </div> 
-                <div className='col-md-6 col-sm-12'>
-
+               
+                <div className='col-md-12 col-sm-12'>
+                     <script src="https://apps.elfsight.com/p/platform.js" defer></script>
+                     <div class="elfsight-app-dfea8bdb-9ebd-437f-9187-47500ca541c1"></div>
                 </div>
             </div>
         </div>
