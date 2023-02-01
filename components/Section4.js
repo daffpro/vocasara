@@ -46,7 +46,7 @@ const Section4 =() =>{
                         
                         <div className="col-sm-4">
                             <div className="member-team animated fadeInUp" >
-                            <img src="/img/raphael.jpeg" alt="CEO"/>
+                            <img src="/img/raphael.jpg" alt="CEO"/>
                             <div className="magnifier">
                                 <div className="magnifier-inner">
                                 <h3>Yikiedoin Raphaël Sara</h3>
